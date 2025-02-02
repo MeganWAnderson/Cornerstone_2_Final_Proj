@@ -1,4 +1,4 @@
-This repository contains the code, presentaitons, and technical reports associated with the Cornerstone 2 Semester long Deisgn Project. 
+This repository contains the code, presentaitons, and technical reports associated with the Cornerstone 2 Semester Deisgn Project. 
 
 The assigned task for this project was to  solving an open-ended design project developed out of a needs assessment of our choice. The project was meant to utilize robotic elements and automations using various Arduino 
 components, as well as sself-designed 3D printed, lasercut, and soldered components. The overarching goal of the design project was to follow the Engineering Design Cycle to address a problem using these resources. 
